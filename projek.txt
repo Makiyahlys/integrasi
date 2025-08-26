@@ -1,0 +1,1 @@
+ Kompleksitas teknis, keamanan data, dan kompatibilitas antar sistem.
