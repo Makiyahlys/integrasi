@@ -7,11 +7,12 @@ use Illuminate\Http\Request;
 class MathController extends Controller
 {
     public function add(Request $request)
-    {
-        $a = (int) $request->input('a');
-        $b = (int) $request->input('b');
-        return response()->json([
-            'result' => $a + $b
-        ]);
-    }
+{
+    $a = (int) $request->query('a');
+    $b = (int) $request->query('b');
+
+    return response()->json([
+        'result' => $a + $b
+    ]);
+}
 }
