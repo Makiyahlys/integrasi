@@ -53,7 +53,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ## Contributing
 # Laravel Testing Project
-![Makiyahlys](git@github.com:Makiyahlys/integrasi.git/actions/workflows/laravel-tests.yml/badge.svg)
+![Makiyahlys](t)
 
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
@@ -70,6 +70,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
-
+# PBL5
+KELOMPOK 5 PBL KELAS 3D 
+>>>>>>> 2c16aea3f81e3aacc38a3215c63d14ea032be2eb
+=======
 # laravel-tests
 >>>>>>> 8357cb8917086daffe1f89ee2d7db8f48540e22e
